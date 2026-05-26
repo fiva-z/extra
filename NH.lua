@@ -1,4 +1,1 @@
-"Xeno",
-"Velocity",
-"Solara",
-"JJsploit"
+return "Xeno", "Velocity", "Solara", "JJsploit"
